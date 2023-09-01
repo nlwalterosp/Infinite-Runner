@@ -1,0 +1,323 @@
+fileFormatVersion: 2
+guid: 8748e78bb276b8f4297ed77dea63bda4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spritesheet princesa guatemalteca.corriendo_0
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 521
+        width: 124
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fb52a75a9807548808401732bc999b
+      internalID: -566957780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet princesa guatemalteca.corriendo_1
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 503
+        width: 201
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 9, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8809e6d00d38f1f4c9f7df320f70cefe
+      internalID: -1801014652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet princesa guatemalteca.corriendo_3
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 511
+        width: 201
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeffde3c9a0c46c49aff880a98299f81
+      internalID: 1319394343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet princesa guatemalteca.corriendo_4
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 519
+        width: 238
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b6528177aeadc4194aa17db90b6a5f
+      internalID: -652469510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet princesa guatemalteca.corriendo_5
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 43
+        width: 204
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfe94f4e2b0258498e20423ba8588a7
+      internalID: 940131662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet princesa guatemalteca.corriendo_6
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 62
+        width: 291
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a9f30abc9fef84d8b6cfc5f84b99d2
+      internalID: 1810276913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet princesa guatemalteca.corriendo_8
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 104
+        width: 324
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86c999cbfe3cc14989c80ad79bc959c
+      internalID: -1554578019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet princesa guatemalteca.corriendo_11
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 83
+        width: 336
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3dd687a1585dee41bfba86745ed6e45
+      internalID: -653161361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Spritesheet princesa guatemalteca.corriendo_0: -566957780
+      Spritesheet princesa guatemalteca.corriendo_1: -1801014652
+      Spritesheet princesa guatemalteca.corriendo_10: 1722702004
+      Spritesheet princesa guatemalteca.corriendo_11: -653161361
+      Spritesheet princesa guatemalteca.corriendo_12: 2038803439
+      Spritesheet princesa guatemalteca.corriendo_13: -846346384
+      Spritesheet princesa guatemalteca.corriendo_14: -507364837
+      Spritesheet princesa guatemalteca.corriendo_15: 722152229
+      Spritesheet princesa guatemalteca.corriendo_16: -1728656701
+      Spritesheet princesa guatemalteca.corriendo_17: 869305291
+      Spritesheet princesa guatemalteca.corriendo_18: 1762887613
+      Spritesheet princesa guatemalteca.corriendo_19: 159072343
+      Spritesheet princesa guatemalteca.corriendo_2: -1521409261
+      Spritesheet princesa guatemalteca.corriendo_20: -1209677268
+      Spritesheet princesa guatemalteca.corriendo_21: -728927687
+      Spritesheet princesa guatemalteca.corriendo_22: -1029206128
+      Spritesheet princesa guatemalteca.corriendo_23: 339286420
+      Spritesheet princesa guatemalteca.corriendo_24: -219753752
+      Spritesheet princesa guatemalteca.corriendo_25: -1223838838
+      Spritesheet princesa guatemalteca.corriendo_26: -518127622
+      Spritesheet princesa guatemalteca.corriendo_27: 1775258471
+      Spritesheet princesa guatemalteca.corriendo_3: 1319394343
+      Spritesheet princesa guatemalteca.corriendo_4: -652469510
+      Spritesheet princesa guatemalteca.corriendo_5: 940131662
+      Spritesheet princesa guatemalteca.corriendo_6: 1810276913
+      Spritesheet princesa guatemalteca.corriendo_7: -1838809219
+      Spritesheet princesa guatemalteca.corriendo_8: -1554578019
+      Spritesheet princesa guatemalteca.corriendo_9: -2018360171
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
